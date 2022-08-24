@@ -35,3 +35,4 @@ GRANT ALL PRIVILEGES ON DATABASE jiradb TO jirauser;
 ```
 
 # Truy cập localhost:8080
+[Imgur](https://i.imgur.com/C7Zv5jN.png)
