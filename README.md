@@ -42,3 +42,12 @@ GRANT ALL PRIVILEGES ON DATABASE jiradb TO jirauser;
 
 # Tạo Trial key
 <img src=https://i.imgur.com/LIUT8NX.png>
+
+# Nhập License key
+<img src=https://i.imgur.com/yVw0LCK.png>
+
+# Cấu hình administrator
+<img src=https://i.imgur.com/EZflJkM.png>
+
+# Thành công
+<img src=https://i.imgur.com/YQoXTSP.png>
