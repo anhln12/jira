@@ -39,3 +39,6 @@ GRANT ALL PRIVILEGES ON DATABASE jiradb TO jirauser;
 
 # Cấu hình database
 <img src=https://i.imgur.com/ej58j2S.png>
+
+# Tạo Trial key
+<img src=https://i.imgur.com/LIUT8NX.png>
